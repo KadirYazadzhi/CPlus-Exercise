@@ -2,6 +2,8 @@
 
 Welcome to the repository where I share C++ exercises from various difficulty levels, collected from the internet along with their conditions.
 
+<img src="C++ Exercise preview.png">
+
 ## 📖 Introduction
 This repository contains a collection of exercise with C++ from various difficulty levels. The tasks are organized according to the levels. Each task is thoroughly tested, but if you encounter any issues, feel free to reach out.
 
